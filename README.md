@@ -11,11 +11,32 @@
 
 ### An overview of a Full Stack Dev
 
-* a summary of full stack
-~~~
---> front-end                       back-end
+  * a summary of full stack
+  
+    ~~~
+    --> front-end                       back-end
 
-    HTML                            Server [Node.js, Express.js]
-    CSS                          
-    javascript + (Frameworks)       Database [PostgreSQL]
-~~~
+        HTML                            Server [Node.js, Express.js]
+        CSS                          
+        javascript + (Frameworks)       Database [PostgreSQL, MongoDb]
+    ~~~
+
+### HTML Structure
+  
+  * is the standard markup language for documents designed to be displayed 
+    in a web browser. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. 
+
+    ~~~
+    <!DOCTYPE html>
+    <html>
+      <head>
+       
+        <title></title>
+      </head>
+
+      <body>
+      </body>
+    </html>
+    
+    --> This is the basic of an html
+    ~~~
